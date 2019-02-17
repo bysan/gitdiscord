@@ -1,16 +1,16 @@
 {
   "username": "Webhook",
-  "avatar_url": "https://i.imgur.com/4M34hi2.png",
+  "avatar_url": "https://i.imgur.com/KN7Hsw3.png",
   "content": "Text message. Up to 2000 characters.",
   "embeds": [
     {
       "author": {
-        "name": "Birdie♫",
-        "url": "https://www.reddit.com/r/cats/",
-        "icon_url": "https://i.imgur.com/R66g1Pe.jpg"
+        "name": "bysanUI",
+        "url": "https://discord.gg/fkmkk6Z",
+        "icon_url": "https://i.imgur.com/KN7Hsw3.png"
       },
-      "title": "Title",
-      "url": "https://google.com/",
+      "title": "Test",
+      "url": "https://discord.gg/fkmkk6Z",
       "description": "Text message. You can use Markdown here. *Italic* **bold** __underline__ ~~strikeout~~ [hyperlink](https://google.com) `code`",
       "color": 15258703,
       "fields": [
